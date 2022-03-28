@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/846824301676068874/847413435129135124/logo.png" width="300">
+  <img src="https://astrabots.xyz/img/logo.png" width="300">
 </p>
 
 <p align="center">
